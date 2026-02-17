@@ -8,7 +8,7 @@
 
 ---
 
-> 🚀 Apasionado por el **Desarrollo de Software** y el mundo del **Backend**. 
+> Orientado al **Desarrollo de Software** y el **Backend**. 
 > Siempre buscando aprender nuevas tecnologías y enfrentar retos de arquitectura.
 
 </div>
@@ -16,7 +16,6 @@
 ---
 
 ### 💻 Desarrollo de Software & Backend
-Enfocado en construir sistemas robustos y eficientes.
 
 **Lenguajes:**
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -30,15 +29,4 @@ Enfocado en construir sistemas robustos y eficientes.
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
 
-### 📈 Estadísticas de GitHub
-Aquí puedes ver un poco de mi actividad reciente:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight" alt="Mis Estadísticas" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Contador de visitas" />
-</div>
