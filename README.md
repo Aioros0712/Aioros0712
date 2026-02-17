@@ -8,8 +8,8 @@
 
 ---
 
-> Orientado al **Desarrollo de Software** y el **Backend**. 
-> Siempre buscando aprender nuevas tecnologías y enfrentar retos de arquitectura.
+> Orientado al **Desarrollo de Software** y el **Backend**, 
+> siempre buscando aprender nuevas tecnologías y enfrentar retos de arquitectura.
 
 </div>
 
